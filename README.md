@@ -1,4 +1,4 @@
-# Django3_todowoo
+# Django5_todowoo
 Complete your tasks in time!
 __________________________
 This is awesome project to help you
